@@ -9,3 +9,4 @@
  * Iniciar arquivo de configuração knex   : npx knex init;
  * Criar arquivo de migration             : npx knex migrate:make create_onsgs
  * executar migrations                    : npx knex migrate:latest
+ * definir que pode acessar a api         : npm install cors

@@ -4,7 +4,7 @@ import { useNavigation } from "@react-navigation/native";
 import { View, FlatList, Image, Text, TouchableOpacity} from 'react-native';
 
 import api from "../../services/api";
-import format from '../../util/Format';
+import format from '../../utils/Format';
 
 import logoImg from '../../assets/logo.png';
 

@@ -8,7 +8,7 @@ import '../../util/Format';
 import styles from './DetailStyles';
 
 import logoImg from '../../assets/logo.png';
-import format from '../../util/Format';
+import format from '../../utils/Format';
 
 
 export default function Detail(){

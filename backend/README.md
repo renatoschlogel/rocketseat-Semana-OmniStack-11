@@ -11,3 +11,5 @@
  * executar migrations                    : npx knex migrate:latest
  * definir que pode acessar a api         : npm install cors
  * Biblioteca para fazer validações       : npm install celebrate
+ * Framework de testes                    : npm install jest
+ * P/ trabalhar com variaveis de ambiente : npm install cross-env; 

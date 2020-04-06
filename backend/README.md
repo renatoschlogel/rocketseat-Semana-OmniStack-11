@@ -10,3 +10,4 @@
  * Criar arquivo de migration             : npx knex migrate:make create_onsgs
  * executar migrations                    : npx knex migrate:latest
  * definir que pode acessar a api         : npm install cors
+ * Biblioteca para fazer validações       : npm install celebrate

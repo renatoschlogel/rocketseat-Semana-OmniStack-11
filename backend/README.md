@@ -12,4 +12,5 @@
  * definir que pode acessar a api         : npm install cors
  * Biblioteca para fazer validações       : npm install celebrate
  * Framework de testes                    : npm install jest
- * P/ trabalhar com variaveis de ambiente : npm install cross-env; 
+ * Trabalhar com variaveis de ambiente    : npm install cross-env; 
+ * Consumir a API nos testes de integracao: npm install supertest;
